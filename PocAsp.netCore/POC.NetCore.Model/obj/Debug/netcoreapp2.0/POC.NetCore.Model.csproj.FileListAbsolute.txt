@@ -1,0 +1,17 @@
+C:\Users\rlourent\source\repos\Library\POC.NetCore.Model\bin\Debug\netcoreapp2.0\POC.NetCore.Model.deps.json
+C:\Users\rlourent\source\repos\Library\POC.NetCore.Model\bin\Debug\netcoreapp2.0\POC.NetCore.Model.dll
+C:\Users\rlourent\source\repos\Library\POC.NetCore.Model\bin\Debug\netcoreapp2.0\POC.NetCore.Model.pdb
+C:\Users\rlourent\source\repos\Library\POC.NetCore.Model\obj\Debug\netcoreapp2.0\POC.NetCore.Model.csprojAssemblyReference.cache
+C:\Users\rlourent\source\repos\Library\POC.NetCore.Model\obj\Debug\netcoreapp2.0\POC.NetCore.Model.csproj.CoreCompileInputs.cache
+C:\Users\rlourent\source\repos\Library\POC.NetCore.Model\obj\Debug\netcoreapp2.0\POC.NetCore.Model.AssemblyInfoInputs.cache
+C:\Users\rlourent\source\repos\Library\POC.NetCore.Model\obj\Debug\netcoreapp2.0\POC.NetCore.Model.AssemblyInfo.cs
+C:\Users\rlourent\source\repos\Library\POC.NetCore.Model\obj\Debug\netcoreapp2.0\POC.NetCore.Model.dll
+C:\Users\rlourent\source\repos\Library\POC.NetCore.Model\obj\Debug\netcoreapp2.0\POC.NetCore.Model.pdb
+C:\Users\rlourent\source\repos\Poc.NetCore\POC.NetCore.Model\bin\Debug\netcoreapp2.0\POC.NetCore.Model.deps.json
+C:\Users\rlourent\source\repos\Poc.NetCore\POC.NetCore.Model\bin\Debug\netcoreapp2.0\POC.NetCore.Model.dll
+C:\Users\rlourent\source\repos\Poc.NetCore\POC.NetCore.Model\bin\Debug\netcoreapp2.0\POC.NetCore.Model.pdb
+C:\Users\rlourent\source\repos\Poc.NetCore\POC.NetCore.Model\obj\Debug\netcoreapp2.0\POC.NetCore.Model.csproj.CoreCompileInputs.cache
+C:\Users\rlourent\source\repos\Poc.NetCore\POC.NetCore.Model\obj\Debug\netcoreapp2.0\POC.NetCore.Model.AssemblyInfoInputs.cache
+C:\Users\rlourent\source\repos\Poc.NetCore\POC.NetCore.Model\obj\Debug\netcoreapp2.0\POC.NetCore.Model.AssemblyInfo.cs
+C:\Users\rlourent\source\repos\Poc.NetCore\POC.NetCore.Model\obj\Debug\netcoreapp2.0\POC.NetCore.Model.dll
+C:\Users\rlourent\source\repos\Poc.NetCore\POC.NetCore.Model\obj\Debug\netcoreapp2.0\POC.NetCore.Model.pdb

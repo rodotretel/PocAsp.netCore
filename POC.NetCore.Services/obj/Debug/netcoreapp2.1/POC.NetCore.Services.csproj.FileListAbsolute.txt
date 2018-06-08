@@ -1,0 +1,12 @@
+C:\Users\rlourent\source\repos\Library\POC.NetCore.Services\obj\Debug\netcoreapp2.1\POC.NetCore.Services.csprojAssemblyReference.cache
+C:\Users\rlourent\source\repos\Library\POC.NetCore.Services\obj\Debug\netcoreapp2.1\POC.NetCore.Services.csproj.CoreCompileInputs.cache
+C:\Users\rlourent\source\repos\Library\POC.NetCore.Services\obj\Debug\netcoreapp2.1\POC.NetCore.Services.AssemblyInfoInputs.cache
+C:\Users\rlourent\source\repos\Library\POC.NetCore.Services\obj\Debug\netcoreapp2.1\POC.NetCore.Services.AssemblyInfo.cs
+C:\Users\rlourent\source\repos\Library\POC.NetCore.Services\bin\Debug\netcoreapp2.1\POC.NetCore.Services.deps.json
+C:\Users\rlourent\source\repos\Library\POC.NetCore.Services\bin\Debug\netcoreapp2.1\POC.NetCore.Services.dll
+C:\Users\rlourent\source\repos\Library\POC.NetCore.Services\bin\Debug\netcoreapp2.1\POC.NetCore.Services.pdb
+C:\Users\rlourent\source\repos\Library\POC.NetCore.Services\bin\Debug\netcoreapp2.1\POC.NetCore.Model.dll
+C:\Users\rlourent\source\repos\Library\POC.NetCore.Services\bin\Debug\netcoreapp2.1\POC.NetCore.Model.pdb
+C:\Users\rlourent\source\repos\Library\POC.NetCore.Services\obj\Debug\netcoreapp2.1\POC.NetCore.Services.csproj.CopyComplete
+C:\Users\rlourent\source\repos\Library\POC.NetCore.Services\obj\Debug\netcoreapp2.1\POC.NetCore.Services.dll
+C:\Users\rlourent\source\repos\Library\POC.NetCore.Services\obj\Debug\netcoreapp2.1\POC.NetCore.Services.pdb
